@@ -6,6 +6,7 @@
 * preserved
   * [bp-pickle](./preserved/bp-pickle)
   * [kasundi](./preserved/kasundi)
+  * [marmalade](./preserved/marmalade)
 
 * meals
   * [roti-thai](./meals/roti-thai)
