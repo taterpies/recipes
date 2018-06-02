@@ -1,16 +1,16 @@
 # Foods
 
 * sweet
-  * [chocolate-coconut-slice](./sweet/chocolate-coconut-slice)
+  * [Chocolate Coconut Slice](./sweet/chocolate-coconut-slice)
 
 * preserved
-  * [bp-pickle](./preserved/bp-pickle)
-  * [kasundi](./preserved/kasundi)
-  * [marmalade](./preserved/marmalade)
+  * [bread & butter pickle](./preserved/bp-pickle)
+  * [Tomato kasundi](./preserved/kasundi)
+  * [Grapefruit Orange Marmalade](./preserved/marmalade)
 
 * meals
-  * [roti-thai](./meals/roti-thai)
-  * [roti-indian](./meals/roti-indian)
-  * [jalapeno-cheddar-scones](./meals/jalapeno-cheddar-scones)
-  * [thai-curry-paste](./meals/thai-curry-paste)
+  * [Roti canai](./meals/roti-thai)
+  * [Roti chapati](./meals/roti-indian)
+  * [jalapeño-cheddar scones](./meals/jalapeno-cheddar-scones)
+  * [Thai curry pastes](./meals/thai-curry-paste)
 
