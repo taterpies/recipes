@@ -1,7 +1,7 @@
 # Foods
 
-* ./sweet
-* ./preserved
+* sweet
+* preserved
   * [kasundi](./preserved/kasundi)
-* ./meals
+* meals
   * [jalapeno-cheddar-scones](./meals/jalapeno-cheddar-scones)
