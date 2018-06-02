@@ -13,11 +13,11 @@ https://myhungryvalentine.com/en/chutney-kasundi-a-la-tomate-kylee-newton-newton
 * 500g diced tomatoes
 * 3/4 tsp salt
 
-* 3 cloves garlic
-* 60g ginger
-
 * 1 tbs brown mustard seeds
 * 115 ml cider vinegar
+
+* 3 cloves garlic
+* 60g ginger
 
 * 3 birdseye peppers
 * 80g onion
@@ -33,9 +33,9 @@ https://myhungryvalentine.com/en/chutney-kasundi-a-la-tomate-kylee-newton-newton
 
 Salt tomatoes and rest.
 
-Grind garlic and ginger to paste
-
 Warm mustard seeds and vinegar, leave to steep.
+
+Grind garlic and ginger to paste
 
 Fry onion and chillies. Add spices. Add ginger paste. Add mustard/vinegar. Add tomatoes. Add sugar.
 
