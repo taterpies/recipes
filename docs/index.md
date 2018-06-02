@@ -4,6 +4,7 @@
   * [chocolate-coconut-slice](./sweet/chocolate-coconut-slice)
 
 * preserved
+  * [bp-pickle](./preserved/bp-pickle)
   * [kasundi](./preserved/kasundi)
 
 * meals
