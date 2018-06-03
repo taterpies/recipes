@@ -2,7 +2,7 @@
 
 ### Source
 
-https://smittenkitchen.com/2010/06/bread-and-butter-pickles/
+[Link](https://smittenkitchen.com/2010/06/bread-and-butter-pickles/)
 
 ### Makes
 

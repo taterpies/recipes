@@ -2,7 +2,7 @@
 
 ### Source
 
-https://smittenkitchen.com/2009/10/jalapeo-cheddar-scones/
+[Smitten](https://smittenkitchen.com/2009/10/jalapeo-cheddar-scones/)
 
 ### Make
 

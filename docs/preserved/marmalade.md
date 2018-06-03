@@ -2,7 +2,7 @@
 
 ### Source
 
-https://www.seriouseats.com/recipes/2012/01/fresh-grapefruit-marmalade-recipe.html
+[Serious eats](https://www.seriouseats.com/recipes/2012/01/fresh-grapefruit-marmalade-recipe.html)
 
 ### Makes
 
