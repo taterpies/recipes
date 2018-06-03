@@ -5,6 +5,7 @@
   * [Miche's Biscuits](./meals/michecuits)
   * [Roti chapati](./meals/roti-indian)
   * [Roti canai](./meals/roti-thai)
+  * [Roasted Potato and Shallot Salad With Marinated Mushrooms and Kale](./meals/tater-shroom-kale-salad)
   * [Thai curry pastes](./meals/thai-curry-paste)
 
 * preserved
