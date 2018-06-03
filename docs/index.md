@@ -13,6 +13,7 @@
   * [Tomato kasundi](./preserved/kasundi)
   * [Grapefruit Orange Marmalade](./preserved/marmalade)
   * [Caramelized onion jam](./preserved/onion-jam)
+  * [Tomato relish](./preserved/tomato-relish)
 
 * sweet
   * [Chocolate Coconut Slice](./sweet/chocolate-coconut-slice)
