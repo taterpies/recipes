@@ -13,5 +13,6 @@
   * [Roti canai](./meals/roti-thai)
   * [Roti chapati](./meals/roti-indian)
   * [Jalapeño-cheddar scones](./meals/jalapeno-cheddar-scones)
+  * [Biscuits](./meals/michecuits)
   * [Thai curry pastes](./meals/thai-curry-paste)
 
