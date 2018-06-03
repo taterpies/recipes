@@ -2,6 +2,7 @@
 
 * bread
   * [Focaccia](./bread/focaccia)
+  * [Sourdough not-cross buns](./bread/hot-cross-buns)
   * [Sourdough](./bread/sourdough)
   * [Guardian Perfect Wholemeal Bread](./bread/wholemeal-tin)
 
@@ -10,15 +11,18 @@
   * [Black lentil dal](./meals/black-dal)
   * [Black Pepper Tofu](./meals/black-pepper-tofu)
   * [Carrot Pie](./meals/carrot-pie)
+  * [Chilaquiles Rojos](./meals/chilaquiles)
   * [Serious Eats Vege Chili](./meals/chili)
   * [Brown Butter Cornbread](./meals/cornbread)
   * [Garlic dal](./meals/dal)
   * [Dosa](./meals/dosa)
   * [Mexican Street Corn Salad (Esquites)](./meals/esquites)
   * [Miso French Onion Soup](./meals/french-onion-miso-soup)
+  * [Spicy Udon Stir Fry](./meals/fried-udon)
   * [Gado-Gado](./meals/gado-gado)
   * [Granola](./meals/granola)
   * [Gypsy Soup](./meals/gypsy-soup)
+  * [French-Style Green Beans With Almonds](./meals/haricots-verts-amandine)
   * [Jalapeño-cheddar scones](./meals/jalapeno-cheddar-scones)
   * [Long Bean, Cucumber, and Tomato Salad](./meals/long-bean-salad)
   * [Kylie Kwong's fried eggplant and chilli herbs](./meals/masterchef-chilli-eggplant)
@@ -41,6 +45,7 @@
   * [Tomato kasundi](./preserved/kasundi)
   * [Grapefruit Orange Marmalade](./preserved/marmalade)
   * [Caramelized onion jam](./preserved/onion-jam)
+  * [Indian Onion Tamarind Chutney](./preserved/onion-tamarind-chutney)
   * [Tomato relish](./preserved/tomato-relish)
 
 * sweet
@@ -50,6 +55,7 @@
   * [Serious Eats Light and Fluffy Pancakes](./sweet/fluffy-pancakes)
   * [Ice cream](./sweet/ice-cream)
   * [Olive Oil Cake](./sweet/olive-oil-cake)
+  * [Rock cakes](./sweet/rock-cakes)
   * [Ruby Tandoh's pear, blackberry and coconut cake](./sweet/ruby-coconut-blackberry-pear-cake)
   * [Self-saucing chocolate pudding](./sweet/self-saucing-chocolate-pud)
   * [GWS Tiramisu by Jerkstore77](./sweet/tiramisu)
