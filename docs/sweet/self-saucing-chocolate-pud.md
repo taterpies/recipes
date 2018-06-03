@@ -37,5 +37,7 @@ For small square ceramic:
 
 ## Method
 
+Oven to 180 C / 350 F.
+
 Mix wet & dry, bake 1 hour.
 

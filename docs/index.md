@@ -1,8 +1,11 @@
 # Foods
 
 * meals
+  * [Black bean burgers](./meals/black-bean-burgers)
   * [Black lentil dal](./meals/black-dal)
+  * [Gado-Gado](./meals/gado-gado)
   * [Jalapeño-cheddar scones](./meals/jalapeno-cheddar-scones)
+  * [Long Bean, Cucumber, and Tomato Salad](./meals/long-bean-salad)
   * [Miche's Biscuits](./meals/michecuits)
   * [Roti chapati](./meals/roti-indian)
   * [Roti canai](./meals/roti-thai)
@@ -21,6 +24,8 @@
   * [Tomato relish](./preserved/tomato-relish)
 
 * sweet
+  * [Bran muffins](./sweet/bran-muffins)
   * [Chocolate Coconut Slice](./sweet/chocolate-coconut-slice)
+  * [Olive Oil Cake](./sweet/olive-oil-cake)
   * [Self-saucing chocolate pudding](./sweet/self-saucing-chocolate-pud)
 
