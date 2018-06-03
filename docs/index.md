@@ -17,6 +17,7 @@
   * [Garlic dal](./meals/dal)
   * [Dosa](./meals/dosa)
   * [Mexican Street Corn Salad (Esquites)](./meals/esquites)
+  * [Falafel](./meals/falafel)
   * [Miso French Onion Soup](./meals/french-onion-miso-soup)
   * [Spicy Udon Stir Fry](./meals/fried-udon)
   * [Gado-Gado](./meals/gado-gado)
