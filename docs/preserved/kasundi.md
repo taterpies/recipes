@@ -25,6 +25,7 @@ https://myhungryvalentine.com/en/chutney-kasundi-a-la-tomate-kylee-newton-newton
 * 1/3 tsp coriander seeds
 * 1/3 tbsp cumin seeds
 * 1/4 tsp tumeric
+* 1/4 tsp paprika
 * 4 ground cloves
 
 * 60g brown sugar
