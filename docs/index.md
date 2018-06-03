@@ -2,6 +2,7 @@
 
 * bread
   * [Focaccia](./bread/focaccia)
+  * [Sourdough](./bread/sourdough)
   * [Guardian Perfect Wholemeal Bread](./bread/wholemeal-tin)
 
 * meals
