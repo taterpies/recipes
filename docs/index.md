@@ -1,10 +1,12 @@
 # Foods
 
 * meals
+  * [Black lentil dal](./meals/black-dal)
   * [Jalapeño-cheddar scones](./meals/jalapeno-cheddar-scones)
   * [Miche's Biscuits](./meals/michecuits)
   * [Roti chapati](./meals/roti-indian)
   * [Roti canai](./meals/roti-thai)
+  * [Tamarind rice](./meals/tamarind-rice)
   * [Roasted Potato and Shallot Salad With Marinated Mushrooms and Kale](./meals/tater-shroom-kale-salad)
   * [Thai curry pastes](./meals/thai-curry-paste)
   * [Zucchini-and-Corn Fritters With Herb Sour Cream ](./meals/zucchini-corn-fritters)
