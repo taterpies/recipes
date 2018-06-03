@@ -3,7 +3,12 @@
 * meals
   * [Black bean burgers](./meals/black-bean-burgers)
   * [Black lentil dal](./meals/black-dal)
+  * [Guardian Perfect Wholemeal Bread](./meals/bread-wholemeal)
+  * [Dosa](./meals/dosa)
+  * [Miso French Onion Soup](./meals/french-onion-miso-soup)
   * [Gado-Gado](./meals/gado-gado)
+  * [Granola](./meals/granola)
+  * [Gypsy Soup](./meals/gypsy-soup)
   * [Jalapeño-cheddar scones](./meals/jalapeno-cheddar-scones)
   * [Long Bean, Cucumber, and Tomato Salad](./meals/long-bean-salad)
   * [Miche's Biscuits](./meals/michecuits)
@@ -24,6 +29,7 @@
   * [Tomato relish](./preserved/tomato-relish)
 
 * sweet
+  * [Anise and Fennel Cookies](./sweet/anise-fennel-cookies)
   * [Bran muffins](./sweet/bran-muffins)
   * [Chocolate Coconut Slice](./sweet/chocolate-coconut-slice)
   * [Olive Oil Cake](./sweet/olive-oil-cake)
