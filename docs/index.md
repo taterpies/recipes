@@ -9,6 +9,7 @@
   * [Tamarind rice](./meals/tamarind-rice)
   * [Roasted Potato and Shallot Salad With Marinated Mushrooms and Kale](./meals/tater-shroom-kale-salad)
   * [Thai curry pastes](./meals/thai-curry-paste)
+  * [Vietnamese Hot and Sour Soup](./meals/viet-hot-sour-soup)
   * [Zucchini-and-Corn Fritters With Herb Sour Cream ](./meals/zucchini-corn-fritters)
 
 * preserved
