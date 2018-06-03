@@ -1,4 +1,4 @@
-# bread & butter pickle
+# Bread & butter pickle
 
 ### Source
 

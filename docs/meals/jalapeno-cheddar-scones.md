@@ -1,4 +1,4 @@
-# jalapeño-cheddar scones
+# Jalapeño-cheddar scones
 
 ### Source
 
