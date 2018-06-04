@@ -21,11 +21,11 @@
 toast, then grind
 
 * 2 tsp coriander seed
-1/4 tsp cumin seed
-1/4 tsp cardamom
-1/8 tsp cinnamon
-3x cloves
-1/4 tsp nutmeg/mace
+* 1/4 tsp cumin seed
+* 1/4 tsp cardamom
+* 1/8 tsp cinnamon
+* 3x cloves
+* 1/4 tsp nutmeg/mace
 
 ## Green
 
