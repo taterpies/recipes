@@ -4,6 +4,30 @@
 
 [Thompson](https://www.youtube.com/channel/UC1ZlulquuoTtzqVRcwf79Ow)
 
+## Red
+
+[Night + Market](https://www.101cookbooks.com/archives/night-market-allpurpose-curry-paste-recipe.html)
+
+## Green
+
+### Makes
+
+6 cubes
+
+## Ingredients
+
+* 4x lemongrass (18g total)
+* 1"^2 lime peel
+* 6 birdseye peppers, deseeded (~11g whole, 6g prepped)
+* 1/2 tsp coarse salt for grinding
+* 40g ginger
+* 7 cl large garlic (24g peeled)
+* 5 shallots (105g peeled)
+* 1" tumeric (8g)
+* 1/2 tsp cumin seed
+* 1/2 tsp white pepper
+* 1/2 tsp coriander seed
+
 ## Massaman
 
 ### Makes
@@ -32,23 +56,4 @@ toast, then grind:
 * 3x cloves
 * 1/4 tsp nutmeg/mace
 
-## Green
 
-### Makes
-
-6 cubes
-
-## Ingredients
-
-* 4x lemongrass (18g total)
-* 1"^2 lime peel
-* 6 birdseye peppers, deseeded (~11g whole, 6g prepped)
-* 1/2 tsp coarse salt for grinding
-* 20g galangal
-* 20g ginger
-* 7 cl large garlic (24g peeled)
-* 5 shallots (105g peeled)
-* 1" tumeric (8g)
-* 1/2 tsp cumin seed
-* 1/2 tsp white pepper
-* 1/2 tsp coriander seed
