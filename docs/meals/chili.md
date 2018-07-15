@@ -6,8 +6,9 @@
 
 ## Mods
 
-Make double!
-
 * 2x black bean
 * 3x kidney bean
-* 1x sweet corn?
+
+Or: 1c dry black beans = 3c dry kidney beans, boil, 250f oven for 90 mins.
+
+Double everything else.
