@@ -6,19 +6,28 @@
 
 ## Ingredients
 
-* 2 1/4 c bran
-* 1 1/4 c flour
-* 1 tsp baking powder
-* 1/3 c sugar
+Dry:
+
+* 2 1/4 c bran (135g)
+* 1 1/4 c flour (166g)
+* 1/3 c sugar (75g)
+* 1 tsp baking powder 
 * pinch salt
 
-* 1 c milk
+Mix:
+
+* 1 c milk (245g)
 * 1 tsp baking soda
 
-* 60g butter
-* 75g agave or maple or sugar syrup
+Microwave:
 
-* 1/2 c fruit (raisins, berries)
+* 60g butter
+* 50g sugar syrup
+* 25g agave
+
+Add:
+
+* 1 c fruit (raisins, berries)
 
 ## Method
 
