@@ -12,7 +12,7 @@
   * [Black Pepper Tofu](./meals/black-pepper-tofu)
   * [Carrot Pie](./meals/carrot-pie)
   * [Chilaquiles Rojos](./meals/chilaquiles)
-  * [Serious Eats Vege Chili](./meals/chili)
+  * [Chili](./meals/chili)
   * [Brown Butter Cornbread](./meals/cornbread)
   * [Garlic dal](./meals/dal)
   * [Dosa](./meals/dosa)
