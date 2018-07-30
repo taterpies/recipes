@@ -13,6 +13,7 @@
   * [Carrot Pie](./meals/carrot-pie)
   * [Chilaquiles Rojos](./meals/chilaquiles)
   * [Chili](./meals/chili)
+  * [Corn Tomato Feta Herb salad](./meals/corn-feta-tomato-bean-salad)
   * [Brown Butter Cornbread](./meals/cornbread)
   * [Garlic dal](./meals/dal)
   * [Dosa](./meals/dosa)
