@@ -10,6 +10,7 @@
   * [Black bean burgers](./meals/black-bean-burgers)
   * [Black lentil dal](./meals/black-dal)
   * [Black Pepper Tofu](./meals/black-pepper-tofu)
+  * [Carrot Miso soup](./meals/carrot-miso-soup)
   * [Carrot Pie](./meals/carrot-pie)
   * [Chilaquiles Rojos](./meals/chilaquiles)
   * [Chili](./meals/chili)
