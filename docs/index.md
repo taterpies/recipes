@@ -10,6 +10,7 @@
   * [Black bean burgers](./meals/black-bean-burgers)
   * [Black lentil dal](./meals/black-dal)
   * [Black Pepper Tofu](./meals/black-pepper-tofu)
+  * [Bun Chay (Cold Viet Noodle Salad)](./meals/bun-chay)
   * [Carrot Miso soup](./meals/carrot-miso-soup)
   * [Carrot Pie](./meals/carrot-pie)
   * [Chilaquiles Rojos](./meals/chilaquiles)
