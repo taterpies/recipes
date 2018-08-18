@@ -6,7 +6,12 @@
 
 ## Mods
 
-Add rosemary or citrus.
+Leave out amaretto. Add volume of milk instead.
 
-Can be done as muffins.
+Use zest of a lemon + an orange.
+
+For muffins:
+
+Soak 1/6th c (1/2 of 1/3 c) polenta in the milk overnight.
+Then make 2/3rds of recipe - easy as all quantities divide into 3.
 
