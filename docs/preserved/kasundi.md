@@ -10,10 +10,10 @@
 
 ## Ingredients
 
-* 500g diced tomatoes
+* 450g diced tomatoes
 * 3/4 tsp salt
 
-* 1 tbs brown mustard seeds
+* 1 tbs brown/yellow mustard seeds
 * 115 ml cider vinegar
 
 * 3 cloves garlic
@@ -22,13 +22,13 @@
 * 3 birdseye peppers
 * 80g onion
 
-* 1/3 tsp coriander seeds
-* 1/3 tbsp cumin seeds
-* 1/4 tsp tumeric
-* 1/4 tsp paprika
+* 1/2 tsp coriander ground
+* 1/2 tbsp cumin seeds
+* 1/3 tsp tumeric
+* 1/2 tsp paprika
 * 4 ground cloves
 
-* 60g brown sugar
+* 50g brown sugar
 
 ## Method
 

@@ -47,6 +47,7 @@
 * preserved
   * [Apple pear jam](./preserved/apple-jam)
   * [Bread & butter pickle](./preserved/bp-pickle)
+  * [Carrot Marmalade](./preserved/carrot-marmalade)
   * [Tomato kasundi](./preserved/kasundi)
   * [Grapefruit Orange Marmalade](./preserved/marmalade)
   * [Caramelized onion jam](./preserved/onion-jam)
