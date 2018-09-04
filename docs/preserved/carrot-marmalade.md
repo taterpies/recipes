@@ -6,6 +6,18 @@
 
 ## Mods
 
-Add 3x serano or 1 habanero.
+For 1x 500ml jar:
 
-Well ground coriander.
+* 250g carrot
+* 1/2 tsp ground coriander
+* 1/2 inch fresh ginger
+* 80g sugar
+
+* Juice & zest of 1 lemon and 1 orange
+
+* 1 tbs agave syrup
+* 100 ml cider vinegar
+* 1/3 tsp salt
+* fresh cilantro
+
+Simmer for 45 mins. Boil and jar.
