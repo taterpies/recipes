@@ -33,6 +33,7 @@
   * [Miche's Biscuits](./meals/michecuits)
   * [Mujadara Lentils With Leeks and Greens](./meals/mujadara)
   * [Panzanella (tomato brad salad)](./meals/panzanella)
+  * [Pastry](./meals/pastry)
   * [takeout-style sesame / peanut noodles with cucumber](./meals/peanut-noodles)
   * [Roti chapati](./meals/roti-indian)
   * [Roti canai](./meals/roti-thai)
