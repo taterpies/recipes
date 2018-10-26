@@ -2,6 +2,6 @@
 
 ## Source
 
-[Link](http://www.simplysogood.com/2013/08/focaccia-in-five.html)
+[Link](https://www.simplysogood.com/focaccia-in-five/)
 
 Works in 9x9 pan.
