@@ -53,6 +53,7 @@
   * [Grapefruit Orange Marmalade](./preserved/marmalade)
   * [Caramelized onion jam](./preserved/onion-jam)
   * [Indian Onion Tamarind Chutney](./preserved/onion-tamarind-chutney)
+  * [Piccalili](./preserved/piccalili)
   * [Tomato relish](./preserved/tomato-relish)
 
 * sweet
