@@ -12,7 +12,7 @@
 
 Soak:
 
-* 20 oz cauli, green beans, zucchini, carrot, pearl onions
+* 24 oz cauli, green beans, zucchini, carrot, pearl onions
 * 1 tbs salt
 * water to cover
 
@@ -22,7 +22,7 @@ Simmer:
 * 1/2 cup sugar
 * 1.5 tsp tumeric powder
 * 1 tbs mustard powder
-* 1 tbs ginger powder
+* 3/4 tbs ginger powder
 * nutmeg
 
 Thicken:
