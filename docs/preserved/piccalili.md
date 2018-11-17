@@ -12,23 +12,23 @@
 
 Soak:
 
-* 24 oz cauli, green beans, zucchini, carrot, pearl onions
+* 2 jars full of cauli, green beans, zucchini, carrot, pearl onions
 * 1 tbs salt
 * water to cover
 
 Simmer:
 
-* 2.5 cup cider vin
+* 2 cup cider vin
 * 1/2 cup sugar
 * 1.5 tsp tumeric powder
 * 1 tbs mustard powder
-* 3/4 tbs ginger powder
+* 1/2 tbs ginger powder
 * nutmeg
 
 Thicken:
 
-* 3 tbs flour
-* 1 tbs cornstarch
+* 2 tbs flour
+* 2 tbs cornstarch
 * water
 
 ## Method
