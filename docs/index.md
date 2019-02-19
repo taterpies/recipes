@@ -58,6 +58,7 @@
 
 * sweet
   * [Anise and Fennel Cookies](./sweet/anise-fennel-cookies)
+  * [Blood orange Olive oil Cake](./sweet/blood-range-olive-oil-cake)
   * [Bran muffins](./sweet/bran-muffins)
   * [Chocolate Coconut Slice](./sweet/chocolate-coconut-slice)
   * [Serious Eats Light and Fluffy Pancakes](./sweet/fluffy-pancakes)
