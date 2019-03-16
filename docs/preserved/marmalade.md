@@ -25,7 +25,7 @@
 
 ## Method
 
-Use a peeler to remove, then slice:
+Use a peeler to remove, then slice peel of:
 
 * all of grapefruit, orange, blood orange
 * half of meyer lemon
