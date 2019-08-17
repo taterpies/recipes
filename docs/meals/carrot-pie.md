@@ -2,28 +2,28 @@
 
 ### Makes
 
-To fill large roasting pan.
+To fill lasagne dish
 
 ## Ingredients
 
-* 2 1/2 c white flour
-* 1/2 c wholemeal flour
-* 170g butter
-* 100g ice water
-* 1/2 tsp baking powder
-* 1 tsp salt
-* 1 tsp mustard
+### Pastry
 
-* 2 1/2 kg (5 lbs) carrots
-* 1/3 c cider vinegar
-* 1 c grated cheddar
+Serious eats tender whole-wheat recipe
+
+* 4 oz white flour
+* 4 oz whole-wheat flour
+* 6 tbs butter
+* 5 oz ice water
+* 1 tsp salt
+
+* 1 kg diced carrot
+* 2 tbs cider vin
+* 3/4 c grated cheddar
+* black pepper
 
 ## Method
 
-Oven to 360 F.
+Blind bake pastry 1 hr @ 350F.
 
-Make pastry. Pre bake.
+Bake pie 30 mins @ 350 + 3 mins broil for top.
 
-Dice and boil carrots. Combine to make filling.
-
-Bake 25 mins.
