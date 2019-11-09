@@ -1,4 +1,4 @@
-# Serious Eats Light and Fluffy Pancakes
+# Pancakes: Serious Eats Light and Fluffy
 
 ## Source
 
