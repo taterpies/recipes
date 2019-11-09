@@ -1,4 +1,4 @@
-# Mexican Street Corn Salad (Esquites)
+# Esquites - Corn Salad
 
 ## Source
 

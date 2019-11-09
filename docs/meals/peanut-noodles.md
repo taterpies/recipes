@@ -1,4 +1,4 @@
-# takeout-style sesame / peanut noodles with cucumber
+# Peanut noodles
 
 ## Source
 

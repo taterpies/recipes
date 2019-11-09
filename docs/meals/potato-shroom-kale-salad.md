@@ -1,4 +1,4 @@
-# Roasted Potato and Shallot Salad With Marinated Mushrooms and Kale
+# Potato and Shallot Salad With Marinated Mushrooms and Kale
 
 ### Source
 

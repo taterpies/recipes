@@ -1,4 +1,4 @@
-# Caramelized onion jam
+# Onion jam
 
 ## Source
 

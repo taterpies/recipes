@@ -1,4 +1,4 @@
-# Brown Butter Cornbread
+# Cornbread
 
 ## Source
 
