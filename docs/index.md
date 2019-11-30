@@ -21,7 +21,6 @@
   * [Dosa](./meals/dosa)
   * [Esquites - Corn Salad](./meals/esquites)
   * [Falafel](./meals/falafel)
-  * [Spicy Udon Stir Fry](./meals/fried-udon)
   * [Gado-Gado](./meals/gado-gado)
   * [Granola](./meals/granola)
   * [Gypsy Soup](./meals/gypsy-soup)
@@ -40,6 +39,7 @@
   * [Tamarind rice](./meals/tamarind-rice)
   * [Thai curry pastes](./meals/thai-curry-paste)
   * [Thai Eggplant & Basil](./meals/thai-eggplant)
+  * [Spicy Udon Stir Fry](./meals/udon-fried)
   * [Vietnamese Hot and Sour Soup](./meals/viet-hot-sour-soup)
   * [Zucchini-and-Corn Fritters With Herb Sour Cream ](./meals/zucchini-corn-fritters)
 
