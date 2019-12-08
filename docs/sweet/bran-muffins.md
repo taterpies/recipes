@@ -8,8 +8,8 @@
 
 Dry:
 
-* 2 1/4 c bran (135g)
-* 1 1/4 c flour (166g)
+* 2 1/4 c bran
+* 1 c flour
 * 1/3 c sugar (75g)
 * 1 tsp baking powder 
 * pinch salt
@@ -23,7 +23,7 @@ Microwave:
 
 * 60g butter
 * 50g sugar syrup
-* 25g agave
+* 30g agave
 
 Add:
 
@@ -35,4 +35,4 @@ Oven to 200 C / 390 F.
 
 Mix dry with wet, add fruit.
 
-Bake ~20 mins.
+Bake ~23 mins.
