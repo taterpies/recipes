@@ -6,6 +6,6 @@
 
 ## Mods
 
-3 egg yolks. 2 tsp fennel.
+3 egg yolks. 2 tsp fennel, 1 tsp anise.
 
 Remember to let it rest and hydrate a bit before kneading. Otherwise too dry.
