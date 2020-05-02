@@ -14,6 +14,6 @@ starter : water : flour (grams)
 * Yukone: cook 80 water + 30 flour and cool
 * Dissolve 1/4 tsp yeast in 50 water
 * Whisk yuk into yeast water
-* Add to dough with 2tsp salt and
-* 170 flour
-* 450F for 30m, remove from tin, 10 mins oven off to crisp lower
+* Add to dough with 2tsp salt and 200 flour
+* Rest and stretch x hours
+* 450F for 30m, remove from tin, 15 mins oven off to crisp lower
