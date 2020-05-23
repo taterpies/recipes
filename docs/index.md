@@ -44,10 +44,9 @@
   * [Zucchini-and-Corn Fritters With Herb Sour Cream ](./meals/zucchini-corn-fritters)
 
 * preserved
-  * [Apple pear jam](./preserved/apple-jam)
   * [Bread & butter pickle](./preserved/bp-pickle)
   * [Carrot Marmalade](./preserved/carrot-marmalade)
-  * [Habanero jam](./preserved/habanero-jam)
+  * [Habanero pear (?) jam](./preserved/habanero-jam)
   * [Kasundi](./preserved/kasundi)
   * [Marmalade (Grapefruit Orange)](./preserved/marmalade)
   * [Onion jam](./preserved/onion-jam)

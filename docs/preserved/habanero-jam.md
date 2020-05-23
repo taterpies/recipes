@@ -1,4 +1,4 @@
-# Habanero jam
+# Habanero pear (?) jam
 
 ### Makes
 
@@ -6,7 +6,7 @@
 
 ## Ingredients
 
-* 3 peaches or pears peeled (~350-400g per 500ml jar).
+* 3 pears peeled (~350-400g per 500ml jar).
 * 1/2 weight in sugar.
 * 3x habanero minced.
 * Juice of small lemon + 3 tbs vin.
