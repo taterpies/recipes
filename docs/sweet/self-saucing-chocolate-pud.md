@@ -4,21 +4,28 @@
 
 From: http://nzfavouriterecipe.co.nz/recipes/desserts/65-chocolate-self-saucing-pudding
 
-### Makes
+## For small square ceramic:
 
-Long pyrex dish.
+* 40g melted butter
+* 1/4 c milk
 
-For small square ceramic:
+Plus
 
-* 1/2 wet
-* 1/2 dry
+* 3/8 c white sugar
+* 3/4 tbs cocoa
+* 1/2 c flour
+* 1.5 tsp baking powder
+* Pinch salt
+* fruit/coconut
+
+Top with:
 
 * 1 tbs brown sugar
 * 1 tbs white sugar
 * 1/2 tbs cocoa
 * 1/2 c water
 
-## Ingredients
+## For long pyrex dish.
 
 * 75g melted butter
 * 1/2 c milk
