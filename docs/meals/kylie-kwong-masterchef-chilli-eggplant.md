@@ -20,7 +20,7 @@ Steam for 5 mins.
 
 Toast in a hot pan then grind to dust.
 
-* 2 tbs giner
+* 2 tbs ginger
 * 4 cloves garlic
 * 2 hot peppers
 
