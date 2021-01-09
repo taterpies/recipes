@@ -62,6 +62,7 @@
   * [Ice cream](./sweet/ice-cream)
   * [Olive Oil Cake](./sweet/olive-oil-cake)
   * [Pancakes: Serious Eats Light and Fluffy](./sweet/pancakes-fluffy-egg)
+  * [Pancakes: Pikelets, easy](./sweet/pancakes-pikelets-egg)
   * [Rock cakes](./sweet/rock-cakes)
   * [Ruby Tandoh's pear, blackberry and coconut cake](./sweet/ruby-coconut-blackberry-pear-cake)
   * [Self-saucing chocolate pudding](./sweet/self-saucing-chocolate-pud)
