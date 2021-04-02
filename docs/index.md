@@ -59,6 +59,7 @@
   * [Blood orange Olive oil Cake](./sweet/blood-range-olive-oil-cake)
   * [Bran muffins](./sweet/bran-muffins)
   * [Chocolate Coconut Slice](./sweet/chocolate-coconut-slice)
+  * [Custard](./sweet/custard)
   * [Ice cream](./sweet/ice-cream)
   * [Olive Oil Cake](./sweet/olive-oil-cake)
   * [Pancakes: Serious Eats Light and Fluffy](./sweet/pancakes-fluffy-egg)
